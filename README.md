@@ -30,7 +30,7 @@ You have only 8 bullets per time, use them carefully!
 - [ ] Add awards
 
 ## 💻 Development
-This game is hosted in the `gh-pages` branch of this repo and is entirely created in C# for Unity.
+This game is hosted in the `gh-pages` branch of this repo and is created in C# for Unity.
 
 To clone this project locally, run the following command in your terminal:
 
